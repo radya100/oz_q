@@ -1,0 +1,842 @@
+202002,Beauty,Apparel,0,Fact,27,1
+202002,Beauty,Apparel,1,Fact,6,0
+202002,Beauty,Health&Beauty,0,Fact,2,0
+202002,Beauty,Health&Beauty,1,Fact,29,1
+202002,Beauty,Jewelry,0,Fact,32,1
+202002,Beauty,Pharmacy,0,Fact,24,1
+202002,Beauty,Pharmacy,1,Fact,34,1
+202002,ES + Home,Auto&Moto,0,Fact,30,1
+202002,ES + Home,Books,0,Fact,29,1
+202002,ES + Home,Digital,0,Fact,17,0
+202002,ES + Home,DIY,0,Fact,34,1
+202002,ES + Home,Furniture,0,Fact,30,1
+202002,ES + Home,Household,0,Fact,26,1
+202002,ES + Home,Household,1,Fact,4,0
+202002,ES + Home,Laptops & Computers,0,Fact,9,0
+202002,ES + Home,Major Domestic Appliances,0,Fact,37,1
+202002,ES + Home,Miscellaneous accessories,0,Fact,6,0
+202002,ES + Home,Small Domestic Appliances,0,Fact,11,0
+202002,ES + Home,Smartphones & Tablets,0,Fact,19,0
+202002,ES + Home,Sport,0,Fact,30,1
+202002,ES + Home,TV  audio  Hi-Fi & other electronics,0,Fact,17,0
+202002,FMCG,FMCG nonfood,0,Fact,3,0
+202002,FMCG,FMCG nonfood,1,Fact,1,0
+202002,FMCG,Food,0,Fact,29,1
+202002,FMCG,Food,1,Fact,13,0
+202002,FMCG,FreshFood,1,Fact,28,1
+202002,FMCG,Moms&Kids,0,Fact,39,1
+202002,FMCG,Moms&Kids,1,Fact,15,0
+202002,FMCG,Zoo,0,Fact,4,0
+202002,FMCG,Zoo,1,Fact,36,1
+202003,Beauty,Apparel,0,Fact,0,0
+202003,Beauty,Health&Beauty,0,Fact,21,1
+202003,Beauty,Health&Beauty,1,Fact,1,0
+202003,Beauty,Jewelry,0,Fact,21,1
+202003,Beauty,Pharmacy,0,Fact,12,0
+202003,Beauty,Pharmacy,1,Fact,38,1
+202003,ES + Home,Auto&Moto,0,Fact,24,1
+202003,ES + Home,Books,0,Fact,40,2
+202003,ES + Home,Digital,0,Fact,39,1
+202003,ES + Home,DIY,0,Fact,6,0
+202003,ES + Home,Furniture,0,Fact,22,1
+202003,ES + Home,Household,0,Fact,30,1
+202003,ES + Home,Household,1,Fact,40,2
+202003,ES + Home,Laptops & Computers,0,Fact,26,1
+202003,ES + Home,Major Domestic Appliances,0,Fact,2,0
+202003,ES + Home,Miscellaneous accessories,0,Fact,13,0
+202003,ES + Home,Small Domestic Appliances,0,Fact,28,1
+202003,ES + Home,Small Domestic Appliances,1,Fact,16,0
+202003,ES + Home,Smartphones & Tablets,0,Fact,1,0
+202003,ES + Home,Sport,0,Fact,8,0
+202003,ES + Home,TV  audio  Hi-Fi & other electronics,0,Fact,37,1
+202003,FMCG,FMCG nonfood,0,Fact,22,1
+202003,FMCG,FMCG nonfood,1,Fact,37,1
+202003,FMCG,Food,0,Fact,22,1
+202003,FMCG,Food,1,Fact,23,1
+202003,FMCG,FreshFood,1,Fact,42,2
+202003,FMCG,Moms&Kids,0,Fact,10,0
+202003,FMCG,Moms&Kids,1,Fact,17,0
+202003,FMCG,Zoo,0,Fact,18,0
+202003,FMCG,Zoo,1,Fact,14,0
+202004,Beauty,Apparel,0,Fact,41,2
+202004,Beauty,Health&Beauty,0,Fact,36,1
+202004,Beauty,Health&Beauty,1,Fact,10,0
+202004,Beauty,Jewelry,0,Fact,35,1
+202004,Beauty,Pharmacy,0,Fact,1,0
+202004,Beauty,Pharmacy,1,Fact,16,0
+202004,ES + Home,Auto&Moto,0,Fact,40,2
+202004,ES + Home,Books,0,Fact,15,0
+202004,ES + Home,Digital,0,Fact,33,1
+202004,ES + Home,DIY,0,Fact,18,0
+202004,ES + Home,Furniture,0,Fact,2,0
+202004,ES + Home,Household,0,Fact,9,0
+202004,ES + Home,Household,1,Fact,37,1
+202004,ES + Home,Laptops & Computers,0,Fact,18,0
+202004,ES + Home,Major Domestic Appliances,0,Fact,30,1
+202004,ES + Home,Miscellaneous accessories,0,Fact,2,0
+202004,ES + Home,Miscellaneous accessories,1,Fact,19,0
+202004,ES + Home,Small Domestic Appliances,0,Fact,16,0
+202004,ES + Home,Small Domestic Appliances,1,Fact,39,1
+202004,ES + Home,Smartphones & Tablets,0,Fact,19,0
+202004,ES + Home,Sport,0,Fact,20,1
+202004,ES + Home,TV  audio  Hi-Fi & other electronics,0,Fact,20,1
+202004,FMCG,FMCG nonfood,0,Fact,10,0
+202004,FMCG,FMCG nonfood,1,Fact,42,2
+202004,FMCG,Food,0,Fact,9,0
+202004,FMCG,Food,1,Fact,30,1
+202004,FMCG,FreshFood,1,Fact,16,0
+202004,FMCG,Moms&Kids,0,Fact,28,1
+202004,FMCG,Moms&Kids,1,Fact,1,0
+202004,FMCG,Zoo,0,Fact,33,1
+202004,FMCG,Zoo,1,Fact,25,1
+202005,Beauty,Apparel,0,Fact,15,0
+202005,Beauty,Health&Beauty,0,Fact,33,1
+202005,Beauty,Health&Beauty,1,Fact,20,1
+202005,Beauty,Jewelry,0,Fact,1,0
+202005,Beauty,Pharmacy,0,Fact,30,1
+202005,Beauty,Pharmacy,1,Fact,17,0
+202005,ES + Home,Auto&Moto,0,Fact,29,1
+202005,ES + Home,Books,0,Fact,33,1
+202005,ES + Home,Digital,0,Fact,25,1
+202005,ES + Home,DIY,0,Fact,6,0
+202005,ES + Home,DIY,1,Fact,4,0
+202005,ES + Home,Furniture,0,Fact,38,1
+202005,ES + Home,Household,0,Fact,17,0
+202005,ES + Home,Household,1,Fact,12,0
+202005,ES + Home,Laptops & Computers,0,Fact,28,1
+202005,ES + Home,Major Domestic Appliances,0,Fact,17,0
+202005,ES + Home,Miscellaneous accessories,0,Fact,1,0
+202005,ES + Home,Miscellaneous accessories,1,Fact,10,0
+202005,ES + Home,Small Domestic Appliances,0,Fact,36,1
+202005,ES + Home,Small Domestic Appliances,1,Fact,26,1
+202005,ES + Home,Smartphones & Tablets,0,Fact,1,0
+202005,ES + Home,Sport,0,Fact,11,0
+202005,ES + Home,TV  audio  Hi-Fi & other electronics,0,Fact,4,0
+202005,FMCG,FMCG nonfood,0,Fact,4,0
+202005,FMCG,FMCG nonfood,1,Fact,35,1
+202005,FMCG,Food,0,Fact,30,1
+202005,FMCG,Food,1,Fact,3,0
+202005,FMCG,FreshFood,1,Fact,33,1
+202005,FMCG,Moms&Kids,0,Fact,31,1
+202005,FMCG,Moms&Kids,1,Fact,16,0
+202005,FMCG,Zoo,0,Fact,29,1
+202005,FMCG,Zoo,1,Fact,33,1
+202006,Beauty,Apparel,0,Fact,18,0
+202006,Beauty,Apparel,1,Fact,40,2
+202006,Beauty,Health&Beauty,0,Fact,4,0
+202006,Beauty,Health&Beauty,1,Fact,9,0
+202006,Beauty,Jewelry,0,Fact,40,2
+202006,Beauty,Pharmacy,0,Fact,41,2
+202006,Beauty,Pharmacy,1,Fact,7,0
+202006,ES + Home,Auto&Moto,0,Fact,21,1
+202006,ES + Home,Books,0,Fact,40,2
+202006,ES + Home,Digital,0,Fact,12,0
+202006,ES + Home,DIY,0,Fact,41,2
+202006,ES + Home,DIY,1,Fact,28,1
+202006,ES + Home,Furniture,0,Fact,14,0
+202006,ES + Home,Household,0,Fact,18,0
+202006,ES + Home,Household,1,Fact,41,2
+202006,ES + Home,Laptops & Computers,0,Fact,11,0
+202006,ES + Home,Major Domestic Appliances,0,Fact,16,0
+202006,ES + Home,Miscellaneous accessories,0,Fact,27,1
+202006,ES + Home,Miscellaneous accessories,1,Fact,39,1
+202006,ES + Home,Small Domestic Appliances,0,Fact,11,0
+202006,ES + Home,Small Domestic Appliances,1,Fact,35,1
+202006,ES + Home,Smartphones & Tablets,0,Fact,42,2
+202006,ES + Home,Sport,0,Fact,22,1
+202006,ES + Home,TV  audio  Hi-Fi & other electronics,0,Fact,8,0
+202006,FMCG,FMCG nonfood,0,Fact,22,1
+202006,FMCG,FMCG nonfood,1,Fact,8,0
+202006,FMCG,Food,0,Fact,0,0
+202006,FMCG,Food,1,Fact,29,1
+202006,FMCG,FreshFood,1,Fact,3,0
+202006,FMCG,Moms&Kids,0,Fact,6,0
+202006,FMCG,Moms&Kids,1,Fact,18,0
+202006,FMCG,Zoo,0,Fact,9,0
+202006,FMCG,Zoo,1,Fact,13,0
+202007,Beauty,Apparel,0,Fact,32,1
+202007,Beauty,Apparel,1,Fact,26,1
+202007,Beauty,Health&Beauty,0,Fact,28,1
+202007,Beauty,Health&Beauty,1,Fact,11,0
+202007,Beauty,Jewelry,0,Fact,22,1
+202007,Beauty,Pharmacy,0,Fact,10,0
+202007,Beauty,Pharmacy,1,Fact,14,0
+202007,ES + Home,Auto&Moto,0,Fact,35,1
+202007,ES + Home,Books,0,Fact,24,1
+202007,ES + Home,Digital,0,Fact,36,1
+202007,ES + Home,DIY,0,Fact,38,1
+202007,ES + Home,DIY,1,Fact,37,1
+202007,ES + Home,Furniture,0,Fact,22,1
+202007,ES + Home,Household,0,Fact,33,1
+202007,ES + Home,Household,1,Fact,40,2
+202007,ES + Home,Laptops & Computers,0,Fact,3,0
+202007,ES + Home,Major Domestic Appliances,0,Fact,4,0
+202007,ES + Home,Miscellaneous accessories,0,Fact,6,0
+202007,ES + Home,Miscellaneous accessories,1,Fact,10,0
+202007,ES + Home,Small Domestic Appliances,0,Fact,4,0
+202007,ES + Home,Small Domestic Appliances,1,Fact,5,0
+202007,ES + Home,Smartphones & Tablets,0,Fact,40,2
+202007,ES + Home,Sport,0,Fact,3,0
+202007,ES + Home,TV  audio  Hi-Fi & other electronics,0,Fact,31,1
+202007,FMCG,FMCG nonfood,0,Fact,2,0
+202007,FMCG,FMCG nonfood,1,Fact,27,1
+202007,FMCG,Food,0,Fact,29,1
+202007,FMCG,Food,1,Fact,34,1
+202007,FMCG,FreshFood,1,Fact,22,1
+202007,FMCG,Moms&Kids,0,Fact,29,1
+202007,FMCG,Moms&Kids,1,Fact,31,1
+202007,FMCG,Zoo,0,Fact,19,0
+202007,FMCG,Zoo,1,Fact,25,1
+202008,Beauty,Apparel,0,Fact,11,0
+202008,Beauty,Apparel,1,Fact,36,1
+202008,Beauty,Health&Beauty,0,Fact,17,0
+202008,Beauty,Health&Beauty,1,Fact,37,1
+202008,Beauty,Jewelry,0,Fact,6,0
+202008,Beauty,Pharmacy,0,Fact,20,1
+202008,Beauty,Pharmacy,1,Fact,26,1
+202008,ES + Home,Auto&Moto,0,Fact,2,0
+202008,ES + Home,Books,0,Fact,3,0
+202008,ES + Home,Digital,0,Fact,0,0
+202008,ES + Home,DIY,0,Fact,5,0
+202008,ES + Home,DIY,1,Fact,26,1
+202008,ES + Home,Furniture,0,Fact,4,0
+202008,ES + Home,Household,0,Fact,10,0
+202008,ES + Home,Household,1,Fact,31,1
+202008,ES + Home,Laptops & Computers,0,Fact,36,1
+202008,ES + Home,Major Domestic Appliances,0,Fact,5,0
+202008,ES + Home,Miscellaneous accessories,0,Fact,2,0
+202008,ES + Home,Miscellaneous accessories,1,Fact,4,0
+202008,ES + Home,Small Domestic Appliances,0,Fact,40,2
+202008,ES + Home,Small Domestic Appliances,1,Fact,11,0
+202008,ES + Home,Smartphones & Tablets,0,Fact,32,1
+202008,ES + Home,Sport,0,Fact,2,0
+202008,ES + Home,TV  audio  Hi-Fi & other electronics,0,Fact,37,1
+202008,FMCG,FMCG nonfood,0,Fact,27,1
+202008,FMCG,FMCG nonfood,1,Fact,8,0
+202008,FMCG,Food,0,Fact,13,0
+202008,FMCG,Food,1,Fact,5,0
+202008,FMCG,FreshFood,1,Fact,18,0
+202008,FMCG,Moms&Kids,0,Fact,23,1
+202008,FMCG,Moms&Kids,1,Fact,31,1
+202008,FMCG,Zoo,0,Fact,32,1
+202008,FMCG,Zoo,1,Fact,42,2
+202009,Beauty,Apparel,0,Fact,9,0
+202009,Beauty,Apparel,1,Fact,37,1
+202009,Beauty,Health&Beauty,0,Fact,36,1
+202009,Beauty,Health&Beauty,1,Fact,3,0
+202009,Beauty,Jewelry,0,Fact,26,1
+202009,Beauty,Pharmacy,0,Fact,20,1
+202009,Beauty,Pharmacy,1,Fact,8,0
+202009,ES + Home,Auto&Moto,0,Fact,8,0
+202009,ES + Home,Books,0,Fact,4,0
+202009,ES + Home,Digital,0,Fact,20,1
+202009,ES + Home,DIY,0,Fact,41,2
+202009,ES + Home,DIY,1,Fact,25,1
+202009,ES + Home,Furniture,0,Fact,28,1
+202009,ES + Home,Household,0,Fact,20,1
+202009,ES + Home,Household,1,Fact,34,1
+202009,ES + Home,Laptops & Computers,0,Fact,42,2
+202009,ES + Home,Major Domestic Appliances,0,Fact,29,1
+202009,ES + Home,Miscellaneous accessories,0,Fact,6,0
+202009,ES + Home,Miscellaneous accessories,1,Fact,24,1
+202009,ES + Home,Small Domestic Appliances,0,Fact,34,1
+202009,ES + Home,Small Domestic Appliances,1,Fact,10,0
+202009,ES + Home,Smartphones & Tablets,0,Fact,22,1
+202009,ES + Home,Smartphones & Tablets,1,Fact,15,0
+202009,ES + Home,Sport,0,Fact,3,0
+202009,ES + Home,TV  audio  Hi-Fi & other electronics,0,Fact,26,1
+202009,ES + Home,TV  audio  Hi-Fi & other electronics,1,Fact,20,1
+202009,FMCG,FMCG nonfood,0,Fact,37,1
+202009,FMCG,FMCG nonfood,1,Fact,15,0
+202009,FMCG,Food,0,Fact,10,0
+202009,FMCG,Food,1,Fact,27,1
+202009,FMCG,FreshFood,1,Fact,37,1
+202009,FMCG,Moms&Kids,0,Fact,41,2
+202009,FMCG,Moms&Kids,1,Fact,15,0
+202009,FMCG,Zoo,0,Fact,20,1
+202009,FMCG,Zoo,1,Fact,16,0
+202010,Beauty,Apparel,0,Fact,3,0
+202010,Beauty,Apparel,1,Fact,13,0
+202010,Beauty,Health&Beauty,0,Fact,21,1
+202010,Beauty,Health&Beauty,1,Fact,27,1
+202010,Beauty,Jewelry,0,Fact,41,2
+202010,Beauty,Pharmacy,0,Fact,40,2
+202010,Beauty,Pharmacy,1,Fact,34,1
+202010,ES + Home,Auto&Moto,0,Fact,18,0
+202010,ES + Home,Auto&Moto,1,Fact,30,1
+202010,ES + Home,Books,0,Fact,18,0
+202010,ES + Home,Books,1,Fact,4,0
+202010,ES + Home,Digital,0,Fact,32,1
+202010,ES + Home,DIY,0,Fact,9,0
+202010,ES + Home,DIY,1,Fact,42,2
+202010,ES + Home,Furniture,0,Fact,32,1
+202010,ES + Home,Household,0,Fact,33,1
+202010,ES + Home,Household,1,Fact,16,0
+202010,ES + Home,Laptops & Computers,0,Fact,22,1
+202010,ES + Home,Laptops & Computers,1,Fact,10,0
+202010,ES + Home,Major Domestic Appliances,0,Fact,40,2
+202010,ES + Home,Miscellaneous accessories,0,Fact,25,1
+202010,ES + Home,Miscellaneous accessories,1,Fact,17,0
+202010,ES + Home,Small Domestic Appliances,0,Fact,22,1
+202010,ES + Home,Small Domestic Appliances,1,Fact,39,1
+202010,ES + Home,Smartphones & Tablets,0,Fact,36,1
+202010,ES + Home,Smartphones & Tablets,1,Fact,2,0
+202010,ES + Home,Sport,0,Fact,8,0
+202010,ES + Home,Sport,1,Fact,2,0
+202010,ES + Home,TV  audio  Hi-Fi & other electronics,0,Fact,9,0
+202010,ES + Home,TV  audio  Hi-Fi & other electronics,1,Fact,11,0
+202010,FMCG,FMCG nonfood,0,Fact,22,1
+202010,FMCG,FMCG nonfood,1,Fact,19,0
+202010,FMCG,Food,0,Fact,36,1
+202010,FMCG,Food,1,Fact,19,0
+202010,FMCG,FreshFood,1,Fact,12,0
+202010,FMCG,Moms&Kids,0,Fact,11,0
+202010,FMCG,Moms&Kids,1,Fact,24,1
+202010,FMCG,Zoo,0,Fact,11,0
+202010,FMCG,Zoo,1,Fact,28,1
+202011,Beauty,Apparel,0,Fact,21,1
+202011,Beauty,Apparel,1,Fact,42,2
+202011,Beauty,Health&Beauty,0,Fact,10,0
+202011,Beauty,Health&Beauty,1,Fact,42,2
+202011,Beauty,Jewelry,0,Fact,7,0
+202011,Beauty,Pharmacy,0,Fact,20,1
+202011,Beauty,Pharmacy,1,Fact,13,0
+202011,ES + Home,Auto&Moto,0,Fact,35,1
+202011,ES + Home,Auto&Moto,1,Fact,5,0
+202011,ES + Home,Books,0,Fact,41,2
+202011,ES + Home,Books,1,Fact,11,0
+202011,ES + Home,Digital,0,Fact,33,1
+202011,ES + Home,DIY,0,Fact,31,1
+202011,ES + Home,DIY,1,Fact,26,1
+202011,ES + Home,Furniture,0,Fact,32,1
+202011,ES + Home,Household,0,Fact,12,0
+202011,ES + Home,Household,1,Fact,22,1
+202011,ES + Home,Laptops & Computers,0,Fact,1,0
+202011,ES + Home,Laptops & Computers,1,Fact,7,0
+202011,ES + Home,Major Domestic Appliances,0,Fact,19,0
+202011,ES + Home,Miscellaneous accessories,0,Fact,7,0
+202011,ES + Home,Miscellaneous accessories,1,Fact,2,0
+202011,ES + Home,Small Domestic Appliances,0,Fact,30,1
+202011,ES + Home,Small Domestic Appliances,1,Fact,32,1
+202011,ES + Home,Smartphones & Tablets,0,Fact,14,0
+202011,ES + Home,Smartphones & Tablets,1,Fact,21,1
+202011,ES + Home,Sport,0,Fact,23,1
+202011,ES + Home,Sport,1,Fact,41,2
+202011,ES + Home,TV  audio  Hi-Fi & other electronics,0,Fact,4,0
+202011,ES + Home,TV  audio  Hi-Fi & other electronics,1,Fact,25,1
+202011,FMCG,FMCG nonfood,0,Fact,29,1
+202011,FMCG,FMCG nonfood,1,Fact,27,1
+202011,FMCG,Food,0,Fact,19,0
+202011,FMCG,Food,1,Fact,22,1
+202011,FMCG,FreshFood,1,Fact,26,1
+202011,FMCG,Moms&Kids,0,Fact,34,1
+202011,FMCG,Moms&Kids,1,Fact,27,1
+202011,FMCG,Zoo,0,Fact,38,1
+202011,FMCG,Zoo,1,Fact,40,2
+202012,Beauty,Apparel,0,Fact,12,0
+202012,Beauty,Apparel,1,Fact,32,1
+202012,Beauty,Health&Beauty,0,Fact,20,1
+202012,Beauty,Health&Beauty,1,Fact,12,0
+202012,Beauty,Jewelry,0,Fact,38,1
+202012,Beauty,Pharmacy,0,Fact,15,0
+202012,Beauty,Pharmacy,1,Fact,31,1
+202012,ES + Home,Auto&Moto,0,Fact,39,1
+202012,ES + Home,Auto&Moto,1,Fact,23,1
+202012,ES + Home,Books,0,Fact,18,0
+202012,ES + Home,Books,1,Fact,20,1
+202012,ES + Home,Digital,0,Fact,3,0
+202012,ES + Home,DIY,0,Fact,15,0
+202012,ES + Home,DIY,1,Fact,20,1
+202012,ES + Home,Furniture,0,Fact,32,1
+202012,ES + Home,Household,0,Fact,40,2
+202012,ES + Home,Household,1,Fact,2,0
+202012,ES + Home,Laptops & Computers,0,Fact,5,0
+202012,ES + Home,Laptops & Computers,1,Fact,20,1
+202012,ES + Home,Major Domestic Appliances,0,Fact,6,0
+202012,ES + Home,Miscellaneous accessories,0,Fact,24,1
+202012,ES + Home,Miscellaneous accessories,1,Fact,10,0
+202012,ES + Home,Small Domestic Appliances,0,Fact,1,0
+202012,ES + Home,Small Domestic Appliances,1,Fact,10,0
+202012,ES + Home,Smartphones & Tablets,0,Fact,5,0
+202012,ES + Home,Smartphones & Tablets,1,Fact,9,0
+202012,ES + Home,Sport,0,Fact,37,1
+202012,ES + Home,Sport,1,Fact,16,0
+202012,ES + Home,TV  audio  Hi-Fi & other electronics,0,Fact,25,1
+202012,ES + Home,TV  audio  Hi-Fi & other electronics,1,Fact,24,1
+202012,FMCG,FMCG nonfood,0,Fact,6,0
+202012,FMCG,FMCG nonfood,1,Fact,36,1
+202012,FMCG,Food,0,Fact,21,1
+202012,FMCG,Food,1,Fact,25,1
+202012,FMCG,FreshFood,1,Fact,24,1
+202012,FMCG,Moms&Kids,0,Fact,8,0
+202012,FMCG,Moms&Kids,1,Fact,35,1
+202012,FMCG,Zoo,0,Fact,9,0
+202012,FMCG,Zoo,1,Fact,26,1
+202101,Beauty,Apparel,0,Estimation,32,1
+202101,Beauty,Apparel,1,Estimation,40,2
+202101,Beauty,Health&Beauty,0,Estimation,23,1
+202101,Beauty,Health&Beauty,1,Estimation,42,2
+202101,Beauty,Jewelry,0,Estimation,3,0
+202101,Beauty,Pharmacy,0,Estimation,36,1
+202101,Beauty,Pharmacy,1,Estimation,1,0
+202101,ES + Home,Auto&Moto,0,Estimation,24,1
+202101,ES + Home,Auto&Moto,1,Estimation,2,0
+202101,ES + Home,Books,0,Estimation,16,0
+202101,ES + Home,Books,1,Estimation,9,0
+202101,ES + Home,Digital,0,Estimation,11,0
+202101,ES + Home,DIY,0,Estimation,11,0
+202101,ES + Home,DIY,1,Estimation,27,1
+202101,ES + Home,Furniture,0,Estimation,13,0
+202101,ES + Home,Household,0,Estimation,41,2
+202101,ES + Home,Household,1,Estimation,22,1
+202101,ES + Home,Laptops & Computers,0,Estimation,15,0
+202101,ES + Home,Laptops & Computers,1,Estimation,25,1
+202101,ES + Home,Major Domestic Appliances,0,Estimation,36,1
+202101,ES + Home,Miscellaneous accessories,0,Estimation,7,0
+202101,ES + Home,Miscellaneous accessories,1,Estimation,13,0
+202101,ES + Home,Small Domestic Appliances,0,Estimation,18,0
+202101,ES + Home,Small Domestic Appliances,1,Estimation,18,0
+202101,ES + Home,Smartphones & Tablets,0,Estimation,0,0
+202101,ES + Home,Smartphones & Tablets,1,Estimation,30,1
+202101,ES + Home,Sport,0,Estimation,12,0
+202101,ES + Home,Sport,1,Estimation,34,1
+202101,ES + Home,TV  audio  Hi-Fi & other electronics,0,Estimation,30,1
+202101,ES + Home,TV  audio  Hi-Fi & other electronics,1,Estimation,12,0
+202101,FMCG,FMCG nonfood,0,Estimation,17,0
+202101,FMCG,FMCG nonfood,1,Estimation,7,0
+202101,FMCG,Food,0,Estimation,16,0
+202101,FMCG,Food,1,Estimation,41,2
+202101,FMCG,FreshFood,1,Estimation,9,0
+202101,FMCG,Moms&Kids,0,Estimation,3,0
+202101,FMCG,Moms&Kids,1,Estimation,37,1
+202101,FMCG,Zoo,0,Estimation,26,1
+202101,FMCG,Zoo,1,Estimation,41,2
+202102,Beauty,Apparel,0,Estimation,21,1
+202102,Beauty,Apparel,1,Estimation,12,0
+202102,Beauty,Health&Beauty,0,Estimation,13,0
+202102,Beauty,Health&Beauty,1,Estimation,11,0
+202102,Beauty,Jewelry,0,Estimation,6,0
+202102,Beauty,Pharmacy,0,Estimation,2,0
+202102,Beauty,Pharmacy,1,Estimation,37,1
+202102,ES + Home,Auto&Moto,0,Estimation,25,1
+202102,ES + Home,Auto&Moto,1,Estimation,7,0
+202102,ES + Home,Books,0,Estimation,38,1
+202102,ES + Home,Books,1,Estimation,16,0
+202102,ES + Home,Digital,0,Estimation,0,0
+202102,ES + Home,DIY,0,Estimation,23,1
+202102,ES + Home,DIY,1,Estimation,41,2
+202102,ES + Home,Furniture,0,Estimation,8,0
+202102,ES + Home,Household,0,Estimation,13,0
+202102,ES + Home,Household,1,Estimation,28,1
+202102,ES + Home,Laptops & Computers,0,Estimation,21,1
+202102,ES + Home,Laptops & Computers,1,Estimation,4,0
+202102,ES + Home,Major Domestic Appliances,0,Estimation,40,2
+202102,ES + Home,Miscellaneous accessories,0,Estimation,32,1
+202102,ES + Home,Miscellaneous accessories,1,Estimation,6,0
+202102,ES + Home,Small Domestic Appliances,0,Estimation,27,1
+202102,ES + Home,Small Domestic Appliances,1,Estimation,28,1
+202102,ES + Home,Smartphones & Tablets,0,Estimation,20,1
+202102,ES + Home,Smartphones & Tablets,1,Estimation,11,0
+202102,ES + Home,Sport,0,Estimation,41,2
+202102,ES + Home,Sport,1,Estimation,2,0
+202102,ES + Home,TV  audio  Hi-Fi & other electronics,0,Estimation,21,1
+202102,ES + Home,TV  audio  Hi-Fi & other electronics,1,Estimation,6,0
+202102,FMCG,FMCG nonfood,0,Estimation,32,1
+202102,FMCG,FMCG nonfood,1,Estimation,8,0
+202102,FMCG,Food,0,Estimation,25,1
+202102,FMCG,Food,1,Estimation,33,1
+202102,FMCG,FreshFood,1,Estimation,11,0
+202102,FMCG,Moms&Kids,0,Estimation,26,1
+202102,FMCG,Moms&Kids,1,Estimation,29,1
+202102,FMCG,Zoo,0,Estimation,18,0
+202102,FMCG,Zoo,1,Estimation,34,1
+202103,Beauty,Apparel,0,Estimation,32,1
+202103,Beauty,Apparel,1,Estimation,26,1
+202103,Beauty,Health&Beauty,0,Estimation,19,0
+202103,Beauty,Health&Beauty,1,Estimation,16,0
+202103,Beauty,Jewelry,0,Estimation,39,1
+202103,Beauty,Pharmacy,0,Estimation,13,0
+202103,Beauty,Pharmacy,1,Estimation,12,0
+202103,ES + Home,Auto&Moto,0,Estimation,17,0
+202103,ES + Home,Auto&Moto,1,Estimation,13,0
+202103,ES + Home,Books,0,Estimation,2,0
+202103,ES + Home,Books,1,Estimation,15,0
+202103,ES + Home,Digital,0,Estimation,15,0
+202103,ES + Home,DIY,0,Estimation,11,0
+202103,ES + Home,DIY,1,Estimation,30,1
+202103,ES + Home,Furniture,0,Estimation,38,1
+202103,ES + Home,Household,0,Estimation,8,0
+202103,ES + Home,Household,1,Estimation,22,1
+202103,ES + Home,Laptops & Computers,0,Estimation,18,0
+202103,ES + Home,Laptops & Computers,1,Estimation,6,0
+202103,ES + Home,Major Domestic Appliances,0,Estimation,35,1
+202103,ES + Home,Miscellaneous accessories,0,Estimation,31,1
+202103,ES + Home,Miscellaneous accessories,1,Estimation,6,0
+202103,ES + Home,Small Domestic Appliances,0,Estimation,39,1
+202103,ES + Home,Small Domestic Appliances,1,Estimation,19,0
+202103,ES + Home,Smartphones & Tablets,0,Estimation,14,0
+202103,ES + Home,Smartphones & Tablets,1,Estimation,11,0
+202103,ES + Home,Sport,0,Estimation,26,1
+202103,ES + Home,Sport,1,Estimation,24,1
+202103,ES + Home,TV  audio  Hi-Fi & other electronics,0,Estimation,7,0
+202103,ES + Home,TV  audio  Hi-Fi & other electronics,1,Estimation,8,0
+202103,FMCG,FMCG nonfood,0,Estimation,5,0
+202103,FMCG,FMCG nonfood,1,Estimation,38,1
+202103,FMCG,Food,0,Estimation,28,1
+202103,FMCG,Food,1,Estimation,36,1
+202103,FMCG,FreshFood,1,Estimation,13,0
+202103,FMCG,Moms&Kids,0,Estimation,16,0
+202103,FMCG,Moms&Kids,1,Estimation,6,0
+202103,FMCG,Zoo,0,Estimation,4,0
+202103,FMCG,Zoo,1,Estimation,1,0
+202104,Beauty,Apparel,0,Estimation,18,0
+202104,Beauty,Apparel,1,Estimation,41,2
+202104,Beauty,Health&Beauty,0,Estimation,29,1
+202104,Beauty,Health&Beauty,1,Estimation,4,0
+202104,Beauty,Jewelry,0,Estimation,5,0
+202104,Beauty,Pharmacy,0,Estimation,17,0
+202104,Beauty,Pharmacy,1,Estimation,3,0
+202104,ES + Home,Auto&Moto,0,Estimation,42,2
+202104,ES + Home,Auto&Moto,1,Estimation,18,0
+202104,ES + Home,Books,0,Estimation,16,0
+202104,ES + Home,Books,1,Estimation,6,0
+202104,ES + Home,Digital,0,Estimation,13,0
+202104,ES + Home,DIY,0,Estimation,30,1
+202104,ES + Home,DIY,1,Estimation,30,1
+202104,ES + Home,Furniture,0,Estimation,0,0
+202104,ES + Home,Household,0,Estimation,27,1
+202104,ES + Home,Household,1,Estimation,18,0
+202104,ES + Home,Laptops & Computers,0,Estimation,40,2
+202104,ES + Home,Laptops & Computers,1,Estimation,25,1
+202104,ES + Home,Major Domestic Appliances,0,Estimation,41,2
+202104,ES + Home,Miscellaneous accessories,0,Estimation,29,1
+202104,ES + Home,Miscellaneous accessories,1,Estimation,18,0
+202104,ES + Home,Small Domestic Appliances,0,Estimation,3,0
+202104,ES + Home,Small Domestic Appliances,1,Estimation,42,2
+202104,ES + Home,Smartphones & Tablets,0,Estimation,1,0
+202104,ES + Home,Smartphones & Tablets,1,Estimation,16,0
+202104,ES + Home,Sport,0,Estimation,2,0
+202104,ES + Home,Sport,1,Estimation,37,1
+202104,ES + Home,TV  audio  Hi-Fi & other electronics,0,Estimation,5,0
+202104,ES + Home,TV  audio  Hi-Fi & other electronics,1,Estimation,37,1
+202104,FMCG,FMCG nonfood,0,Estimation,8,0
+202104,FMCG,FMCG nonfood,1,Estimation,42,2
+202104,FMCG,Food,0,Estimation,7,0
+202104,FMCG,Food,1,Estimation,24,1
+202104,FMCG,FreshFood,1,Estimation,9,0
+202104,FMCG,Moms&Kids,0,Estimation,37,1
+202104,FMCG,Moms&Kids,1,Estimation,3,0
+202104,FMCG,Zoo,0,Estimation,33,1
+202104,FMCG,Zoo,1,Estimation,2,0
+202105,Beauty,Apparel,0,Estimation,33,1
+202105,Beauty,Apparel,1,Estimation,6,0
+202105,Beauty,Health&Beauty,0,Estimation,4,0
+202105,Beauty,Health&Beauty,1,Estimation,30,1
+202105,Beauty,Jewelry,0,Estimation,14,0
+202105,Beauty,Pharmacy,0,Estimation,12,0
+202105,Beauty,Pharmacy,1,Estimation,6,0
+202105,ES + Home,Auto&Moto,0,Estimation,27,1
+202105,ES + Home,Auto&Moto,1,Estimation,32,1
+202105,ES + Home,Books,0,Estimation,22,1
+202105,ES + Home,Books,1,Estimation,27,1
+202105,ES + Home,Digital,0,Estimation,37,1
+202105,ES + Home,DIY,0,Estimation,42,2
+202105,ES + Home,DIY,1,Estimation,36,1
+202105,ES + Home,Furniture,0,Estimation,29,1
+202105,ES + Home,Household,0,Estimation,9,0
+202105,ES + Home,Household,1,Estimation,31,1
+202105,ES + Home,Laptops & Computers,0,Estimation,15,0
+202105,ES + Home,Laptops & Computers,1,Estimation,13,0
+202105,ES + Home,Major Domestic Appliances,0,Estimation,26,1
+202105,ES + Home,Miscellaneous accessories,0,Estimation,19,0
+202105,ES + Home,Miscellaneous accessories,1,Estimation,36,1
+202105,ES + Home,Small Domestic Appliances,0,Estimation,15,0
+202105,ES + Home,Small Domestic Appliances,1,Estimation,11,0
+202105,ES + Home,Smartphones & Tablets,0,Estimation,2,0
+202105,ES + Home,Smartphones & Tablets,1,Estimation,31,1
+202105,ES + Home,Sport,0,Estimation,29,1
+202105,ES + Home,Sport,1,Estimation,14,0
+202105,ES + Home,TV  audio  Hi-Fi & other electronics,0,Estimation,13,0
+202105,ES + Home,TV  audio  Hi-Fi & other electronics,1,Estimation,3,0
+202105,FMCG,FMCG nonfood,0,Estimation,27,1
+202105,FMCG,FMCG nonfood,1,Estimation,16,0
+202105,FMCG,Food,0,Estimation,20,1
+202105,FMCG,Food,1,Estimation,6,0
+202105,FMCG,FreshFood,1,Estimation,33,1
+202105,FMCG,Moms&Kids,0,Estimation,5,0
+202105,FMCG,Moms&Kids,1,Estimation,27,1
+202105,FMCG,Zoo,0,Estimation,42,2
+202105,FMCG,Zoo,1,Estimation,9,0
+202106,Beauty,Apparel,0,Estimation,32,1
+202106,Beauty,Apparel,1,Estimation,35,1
+202106,Beauty,Health&Beauty,0,Estimation,36,1
+202106,Beauty,Health&Beauty,1,Estimation,12,0
+202106,Beauty,Jewelry,0,Estimation,7,0
+202106,Beauty,Pharmacy,0,Estimation,19,0
+202106,Beauty,Pharmacy,1,Estimation,34,1
+202106,ES + Home,Auto&Moto,0,Estimation,19,0
+202106,ES + Home,Auto&Moto,1,Estimation,34,1
+202106,ES + Home,Books,0,Estimation,22,1
+202106,ES + Home,Books,1,Estimation,40,2
+202106,ES + Home,Digital,0,Estimation,17,0
+202106,ES + Home,DIY,0,Estimation,17,0
+202106,ES + Home,DIY,1,Estimation,33,1
+202106,ES + Home,Furniture,0,Estimation,5,0
+202106,ES + Home,Household,0,Estimation,6,0
+202106,ES + Home,Household,1,Estimation,10,0
+202106,ES + Home,Laptops & Computers,0,Estimation,34,1
+202106,ES + Home,Laptops & Computers,1,Estimation,23,1
+202106,ES + Home,Major Domestic Appliances,0,Estimation,10,0
+202106,ES + Home,Miscellaneous accessories,0,Estimation,19,0
+202106,ES + Home,Miscellaneous accessories,1,Estimation,39,1
+202106,ES + Home,Small Domestic Appliances,0,Estimation,30,1
+202106,ES + Home,Small Domestic Appliances,1,Estimation,24,1
+202106,ES + Home,Smartphones & Tablets,0,Estimation,41,2
+202106,ES + Home,Smartphones & Tablets,1,Estimation,8,0
+202106,ES + Home,Sport,0,Estimation,39,1
+202106,ES + Home,Sport,1,Estimation,41,2
+202106,ES + Home,TV  audio  Hi-Fi & other electronics,0,Estimation,36,1
+202106,ES + Home,TV  audio  Hi-Fi & other electronics,1,Estimation,16,0
+202106,FMCG,FMCG nonfood,0,Estimation,12,0
+202106,FMCG,FMCG nonfood,1,Estimation,16,0
+202106,FMCG,Food,0,Estimation,5,0
+202106,FMCG,Food,1,Estimation,39,1
+202106,FMCG,FreshFood,1,Estimation,35,1
+202106,FMCG,Moms&Kids,0,Estimation,27,1
+202106,FMCG,Moms&Kids,1,Estimation,25,1
+202106,FMCG,Zoo,0,Estimation,3,0
+202106,FMCG,Zoo,1,Estimation,42,2
+202107,Beauty,Apparel,0,Estimation,1,0
+202107,Beauty,Apparel,1,Estimation,13,0
+202107,Beauty,Health&Beauty,0,Estimation,33,1
+202107,Beauty,Health&Beauty,1,Estimation,42,2
+202107,Beauty,Jewelry,0,Estimation,1,0
+202107,Beauty,Pharmacy,0,Estimation,2,0
+202107,Beauty,Pharmacy,1,Estimation,16,0
+202107,ES + Home,Auto&Moto,0,Estimation,9,0
+202107,ES + Home,Auto&Moto,1,Estimation,2,0
+202107,ES + Home,Books,0,Estimation,30,1
+202107,ES + Home,Books,1,Estimation,3,0
+202107,ES + Home,Digital,0,Estimation,21,1
+202107,ES + Home,DIY,0,Estimation,33,1
+202107,ES + Home,DIY,1,Estimation,18,0
+202107,ES + Home,Furniture,0,Estimation,27,1
+202107,ES + Home,Household,0,Estimation,22,1
+202107,ES + Home,Household,1,Estimation,0,0
+202107,ES + Home,Laptops & Computers,0,Estimation,42,2
+202107,ES + Home,Laptops & Computers,1,Estimation,30,1
+202107,ES + Home,Major Domestic Appliances,0,Estimation,32,1
+202107,ES + Home,Miscellaneous accessories,0,Estimation,41,2
+202107,ES + Home,Miscellaneous accessories,1,Estimation,34,1
+202107,ES + Home,Small Domestic Appliances,0,Estimation,30,1
+202107,ES + Home,Small Domestic Appliances,1,Estimation,5,0
+202107,ES + Home,Smartphones & Tablets,0,Estimation,21,1
+202107,ES + Home,Smartphones & Tablets,1,Estimation,40,2
+202107,ES + Home,Sport,0,Estimation,42,2
+202107,ES + Home,Sport,1,Estimation,23,1
+202107,ES + Home,TV  audio  Hi-Fi & other electronics,0,Estimation,33,1
+202107,ES + Home,TV  audio  Hi-Fi & other electronics,1,Estimation,9,0
+202107,FMCG,FMCG nonfood,0,Estimation,21,1
+202107,FMCG,FMCG nonfood,1,Estimation,20,1
+202107,FMCG,Food,0,Estimation,37,1
+202107,FMCG,Food,1,Estimation,42,2
+202107,FMCG,FreshFood,1,Estimation,31,1
+202107,FMCG,Moms&Kids,0,Estimation,16,0
+202107,FMCG,Moms&Kids,1,Estimation,28,1
+202107,FMCG,Zoo,0,Estimation,30,1
+202107,FMCG,Zoo,1,Estimation,35,1
+202108,Beauty,Apparel,0,Estimation,41,2
+202108,Beauty,Apparel,1,Estimation,6,0
+202108,Beauty,Health&Beauty,0,Estimation,22,1
+202108,Beauty,Health&Beauty,1,Estimation,38,1
+202108,Beauty,Jewelry,0,Estimation,15,0
+202108,Beauty,Pharmacy,0,Estimation,13,0
+202108,Beauty,Pharmacy,1,Estimation,34,1
+202108,ES + Home,Auto&Moto,0,Estimation,9,0
+202108,ES + Home,Auto&Moto,1,Estimation,21,1
+202108,ES + Home,Books,0,Estimation,33,1
+202108,ES + Home,Books,1,Estimation,24,1
+202108,ES + Home,Digital,0,Estimation,4,0
+202108,ES + Home,DIY,0,Estimation,20,1
+202108,ES + Home,DIY,1,Estimation,35,1
+202108,ES + Home,Furniture,0,Estimation,23,1
+202108,ES + Home,Household,0,Estimation,19,0
+202108,ES + Home,Household,1,Estimation,19,0
+202108,ES + Home,Laptops & Computers,0,Estimation,26,1
+202108,ES + Home,Laptops & Computers,1,Estimation,38,1
+202108,ES + Home,Major Domestic Appliances,0,Estimation,26,1
+202108,ES + Home,Miscellaneous accessories,0,Estimation,36,1
+202108,ES + Home,Miscellaneous accessories,1,Estimation,28,1
+202108,ES + Home,Small Domestic Appliances,0,Estimation,29,1
+202108,ES + Home,Small Domestic Appliances,1,Estimation,20,1
+202108,ES + Home,Smartphones & Tablets,0,Estimation,1,0
+202108,ES + Home,Smartphones & Tablets,1,Estimation,18,0
+202108,ES + Home,Sport,0,Estimation,41,2
+202108,ES + Home,Sport,1,Estimation,40,2
+202108,ES + Home,TV  audio  Hi-Fi & other electronics,0,Estimation,14,0
+202108,ES + Home,TV  audio  Hi-Fi & other electronics,1,Estimation,11,0
+202108,FMCG,FMCG nonfood,0,Estimation,9,0
+202108,FMCG,FMCG nonfood,1,Estimation,22,1
+202108,FMCG,Food,0,Estimation,8,0
+202108,FMCG,Food,1,Estimation,3,0
+202108,FMCG,FreshFood,1,Estimation,41,2
+202108,FMCG,Moms&Kids,0,Estimation,34,1
+202108,FMCG,Moms&Kids,1,Estimation,37,1
+202108,FMCG,Zoo,0,Estimation,12,0
+202108,FMCG,Zoo,1,Estimation,1,0
+202109,Beauty,Apparel,0,Estimation,31,1
+202109,Beauty,Apparel,1,Estimation,7,0
+202109,Beauty,Health&Beauty,0,Estimation,22,1
+202109,Beauty,Health&Beauty,1,Estimation,31,1
+202109,Beauty,Jewelry,0,Estimation,36,1
+202109,Beauty,Pharmacy,0,Estimation,12,0
+202109,Beauty,Pharmacy,1,Estimation,29,1
+202109,ES + Home,Auto&Moto,0,Estimation,9,0
+202109,ES + Home,Auto&Moto,1,Estimation,22,1
+202109,ES + Home,Books,0,Estimation,31,1
+202109,ES + Home,Books,1,Estimation,11,0
+202109,ES + Home,Digital,0,Estimation,14,0
+202109,ES + Home,DIY,0,Estimation,42,2
+202109,ES + Home,DIY,1,Estimation,17,0
+202109,ES + Home,Furniture,0,Estimation,39,1
+202109,ES + Home,Household,0,Estimation,4,0
+202109,ES + Home,Household,1,Estimation,2,0
+202109,ES + Home,Laptops & Computers,0,Estimation,11,0
+202109,ES + Home,Laptops & Computers,1,Estimation,40,2
+202109,ES + Home,Major Domestic Appliances,0,Estimation,0,0
+202109,ES + Home,Miscellaneous accessories,0,Estimation,11,0
+202109,ES + Home,Miscellaneous accessories,1,Estimation,30,1
+202109,ES + Home,Small Domestic Appliances,0,Estimation,3,0
+202109,ES + Home,Small Domestic Appliances,1,Estimation,38,1
+202109,ES + Home,Smartphones & Tablets,0,Estimation,35,1
+202109,ES + Home,Smartphones & Tablets,1,Estimation,29,1
+202109,ES + Home,Sport,0,Estimation,14,0
+202109,ES + Home,Sport,1,Estimation,24,1
+202109,ES + Home,TV  audio  Hi-Fi & other electronics,0,Estimation,35,1
+202109,ES + Home,TV  audio  Hi-Fi & other electronics,1,Estimation,4,0
+202109,FMCG,FMCG nonfood,0,Estimation,36,1
+202109,FMCG,FMCG nonfood,1,Estimation,16,0
+202109,FMCG,Food,0,Estimation,35,1
+202109,FMCG,Food,1,Estimation,27,1
+202109,FMCG,FreshFood,1,Estimation,22,1
+202109,FMCG,Moms&Kids,0,Estimation,38,1
+202109,FMCG,Moms&Kids,1,Estimation,2,0
+202109,FMCG,Zoo,0,Estimation,30,1
+202109,FMCG,Zoo,1,Estimation,39,1
+202110,Beauty,Apparel,0,Estimation,27,1
+202110,Beauty,Apparel,1,Estimation,32,1
+202110,Beauty,Health&Beauty,0,Estimation,31,1
+202110,Beauty,Health&Beauty,1,Estimation,2,0
+202110,Beauty,Jewelry,0,Estimation,14,0
+202110,Beauty,Pharmacy,0,Estimation,35,1
+202110,Beauty,Pharmacy,1,Estimation,38,1
+202110,ES + Home,Auto&Moto,0,Estimation,29,1
+202110,ES + Home,Auto&Moto,1,Estimation,16,0
+202110,ES + Home,Books,0,Estimation,21,1
+202110,ES + Home,Books,1,Estimation,40,2
+202110,ES + Home,Digital,0,Estimation,33,1
+202110,ES + Home,DIY,0,Estimation,22,1
+202110,ES + Home,DIY,1,Estimation,5,0
+202110,ES + Home,Furniture,0,Estimation,41,2
+202110,ES + Home,Household,0,Estimation,6,0
+202110,ES + Home,Household,1,Estimation,19,0
+202110,ES + Home,Laptops & Computers,0,Estimation,16,0
+202110,ES + Home,Laptops & Computers,1,Estimation,24,1
+202110,ES + Home,Major Domestic Appliances,0,Estimation,3,0
+202110,ES + Home,Miscellaneous accessories,0,Estimation,29,1
+202110,ES + Home,Miscellaneous accessories,1,Estimation,3,0
+202110,ES + Home,Small Domestic Appliances,0,Estimation,42,2
+202110,ES + Home,Small Domestic Appliances,1,Estimation,18,0
+202110,ES + Home,Smartphones & Tablets,0,Estimation,3,0
+202110,ES + Home,Smartphones & Tablets,1,Estimation,13,0
+202110,ES + Home,Sport,0,Estimation,36,1
+202110,ES + Home,Sport,1,Estimation,26,1
+202110,ES + Home,TV  audio  Hi-Fi & other electronics,0,Estimation,6,0
+202110,ES + Home,TV  audio  Hi-Fi & other electronics,1,Estimation,26,1
+202110,FMCG,FMCG nonfood,0,Estimation,18,0
+202110,FMCG,FMCG nonfood,1,Estimation,13,0
+202110,FMCG,Food,0,Estimation,1,0
+202110,FMCG,Food,1,Estimation,38,1
+202110,FMCG,FreshFood,1,Estimation,14,0
+202110,FMCG,Moms&Kids,0,Estimation,2,0
+202110,FMCG,Moms&Kids,1,Estimation,26,1
+202110,FMCG,Zoo,0,Estimation,12,0
+202110,FMCG,Zoo,1,Estimation,1,0
+202111,Beauty,Apparel,0,Estimation,9,0
+202111,Beauty,Apparel,1,Estimation,34,1
+202111,Beauty,Health&Beauty,0,Estimation,14,0
+202111,Beauty,Health&Beauty,1,Estimation,16,0
+202111,Beauty,Jewelry,0,Estimation,5,0
+202111,Beauty,Pharmacy,0,Estimation,24,1
+202111,Beauty,Pharmacy,1,Estimation,23,1
+202111,ES + Home,Auto&Moto,0,Estimation,15,0
+202111,ES + Home,Auto&Moto,1,Estimation,14,0
+202111,ES + Home,Books,0,Estimation,35,1
+202111,ES + Home,Books,1,Estimation,16,0
+202111,ES + Home,Digital,0,Estimation,40,2
+202111,ES + Home,DIY,0,Estimation,2,0
+202111,ES + Home,DIY,1,Estimation,33,1
+202111,ES + Home,Furniture,0,Estimation,22,1
+202111,ES + Home,Household,0,Estimation,17,0
+202111,ES + Home,Household,1,Estimation,38,1
+202111,ES + Home,Laptops & Computers,0,Estimation,28,1
+202111,ES + Home,Laptops & Computers,1,Estimation,9,0
+202111,ES + Home,Major Domestic Appliances,0,Estimation,2,0
+202111,ES + Home,Miscellaneous accessories,0,Estimation,26,1
+202111,ES + Home,Miscellaneous accessories,1,Estimation,21,1
+202111,ES + Home,Small Domestic Appliances,0,Estimation,5,0
+202111,ES + Home,Small Domestic Appliances,1,Estimation,23,1
+202111,ES + Home,Smartphones & Tablets,0,Estimation,12,0
+202111,ES + Home,Smartphones & Tablets,1,Estimation,27,1
+202111,ES + Home,Sport,0,Estimation,39,1
+202111,ES + Home,Sport,1,Estimation,18,0
+202111,ES + Home,TV  audio  Hi-Fi & other electronics,0,Estimation,1,0
+202111,ES + Home,TV  audio  Hi-Fi & other electronics,1,Estimation,35,1
+202111,FMCG,FMCG nonfood,0,Estimation,39,1
+202111,FMCG,FMCG nonfood,1,Estimation,37,1
+202111,FMCG,Food,1,Estimation,34,1
+202111,FMCG,Food,0,Estimation,14,0
+202111,FMCG,FreshFood,1,Estimation,31,1
+202111,FMCG,Moms&Kids,0,Estimation,10,0
+202111,FMCG,Moms&Kids,1,Estimation,17,0
+202111,FMCG,Zoo,0,Estimation,36,1
+202111,FMCG,Zoo,1,Estimation,11,0
+202112,Beauty,Apparel,0,Estimation,7,0
+202112,Beauty,Apparel,1,Estimation,0,0
+202112,Beauty,Health&Beauty,0,Estimation,1,0
+202112,Beauty,Health&Beauty,1,Estimation,25,1
+202112,Beauty,Jewelry,0,Estimation,17,0
+202112,Beauty,Pharmacy,0,Estimation,4,0
+202112,Beauty,Pharmacy,1,Estimation,22,1
+202112,ES + Home,Auto&Moto,0,Estimation,7,0
+202112,ES + Home,Auto&Moto,1,Estimation,22,1
+202112,ES + Home,Books,0,Estimation,5,0
+202112,ES + Home,Books,1,Estimation,39,1
+202112,ES + Home,Digital,0,Estimation,3,0
+202112,ES + Home,DIY,0,Estimation,21,1
+202112,ES + Home,DIY,1,Estimation,14,0
+202112,ES + Home,Furniture,0,Estimation,15,0
+202112,ES + Home,Household,0,Estimation,26,1
+202112,ES + Home,Household,1,Estimation,18,0
+202112,ES + Home,Laptops & Computers,0,Estimation,39,1
+202112,ES + Home,Laptops & Computers,1,Estimation,30,1
+202112,ES + Home,Major Domestic Appliances,0,Estimation,33,1
+202112,ES + Home,Miscellaneous accessories,0,Estimation,3,0
+202112,ES + Home,Miscellaneous accessories,1,Estimation,17,0
+202112,ES + Home,Small Domestic Appliances,0,Estimation,14,0
+202112,ES + Home,Small Domestic Appliances,1,Estimation,18,0
+202112,ES + Home,Smartphones & Tablets,0,Estimation,19,0
+202112,ES + Home,Smartphones & Tablets,1,Estimation,28,1
+202112,ES + Home,Sport,0,Estimation,16,0
+202112,ES + Home,Sport,1,Estimation,11,0
+202112,ES + Home,TV  audio  Hi-Fi & other electronics,0,Estimation,28,1
+202112,ES + Home,TV  audio  Hi-Fi & other electronics,1,Estimation,36,1
+202112,FMCG,FMCG nonfood,0,Estimation,26,1
+202112,FMCG,FMCG nonfood,1,Estimation,39,1
+202112,FMCG,Food,0,Estimation,9,0
+202112,FMCG,Food,1,Estimation,13,0
+202112,FMCG,FreshFood,1,Estimation,36,1
+202112,FMCG,Moms&Kids,0,Estimation,34,1
+202112,FMCG,Moms&Kids,1,Estimation,38,1
+202112,FMCG,Zoo,0,Estimation,30,1
+202112,FMCG,Zoo,1,Estimation,4,0
